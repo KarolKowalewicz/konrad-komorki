@@ -1,0 +1,35 @@
+.container {
+    width: 100vh;
+    background-color: #EDF7FA;
+    
+}
+.flexik-belka {
+    display: flex;
+    justify-content: space-between;
+  
+       
+}
+.flexik {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap:30px;
+    
+}
+
+.box-big {
+background-color: white;
+display: table-column;
+justify-content: space-between;
+padding: 30px;
+
+
+}
+.border-right {
+    border-right: 3px solid grey;
+    height: 16px;
+    
+
+}
+
+
